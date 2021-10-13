@@ -25,7 +25,7 @@ experience:
   - title: Student Researcher
     company: Stanford University
     company_url: 'https://surim.stanford.edu/'
-    company_logo: stanford
+    company_logo: stanford-icon.png
     location: California
     date_start: '2021-06-21'
     date_end: '2021-08-27'
