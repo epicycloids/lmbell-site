@@ -2,6 +2,10 @@
 # Display name
 title: Logan Bell
 
+# Username (this should match the folder name)
+authors:
+- lmbell
+
 # Is this the primary user of the site?
 superuser: true
 
