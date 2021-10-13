@@ -17,7 +17,8 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 95%
-  icon: elliptic-curve
+  icon: square-root-alt
+  icon_pack: fas
   name: Mathematics Research
 - description: 75%
   icon: chart-line
