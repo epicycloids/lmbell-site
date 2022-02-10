@@ -34,13 +34,13 @@ education:
   courses:
   - course: BS in Mathematics
     institution: Stanford University
-    year: Expected 2024
+    year: 2020 - Present
   - course: AA and AS
     institution: Lakeland Community College
-    year: 2020
+    year: 2017 - 2020
   - course: High School Diploma
     institution: Riverside High School
-    year: 2020
+    year: 2016 - 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
