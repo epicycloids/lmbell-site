@@ -20,10 +20,14 @@ feature:
   icon: square-root-alt
   icon_pack: fas
   name: Mathematics Research
-- description: 75%
+- description: "75%"
+  icon: julia-dots
+  icon_pack: custom
+  name: Julia
+- description: 70%
   icon: chart-line
   icon_pack: fas
-  name: Probability and Statistics
+  name: Probability Theory
 - description: 70%
   icon: python
   icon_pack: fab
