@@ -25,10 +25,6 @@ feature:
   icon_pack: custom
   name: Julia
 - description: 70%
-  icon: chart-line
-  icon_pack: fas
-  name: Probability Theory
-- description: 70%
   icon: python
   icon_pack: fab
   name: Python
